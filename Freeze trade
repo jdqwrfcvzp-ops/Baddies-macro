@@ -1,2 +1,1 @@
-id = "k2ArDaBlnHKqdttagrIzgZmQwHRYlWcg"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToxinScripts/Baddies/refs/heads/main/baddies.lua'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/N3wRvECk'))()
